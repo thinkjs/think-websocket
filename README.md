@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-websocket.
+
 # think-websocket
 [![Build Status](https://travis-ci.org/thinkjs/think-websocket.svg?branch=master)](https://travis-ci.org/thinkjs/think-websocket)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-websocket/badge.svg)](https://coveralls.io/github/thinkjs/think-websocket)
